@@ -5,7 +5,11 @@
       "type": "video",
       "title": "iPhone 11 还能再战 2 年？",
       "coverText": "iPhone 11",
-      "url": "https://www.douyin.com/video/7480278761573731621"
+      "url": "https://www.douyin.com/video/7480278761573731621",
+      "section": "interests",
+      "featured": true,
+      "videoId": "7480278761573731621",
+      "embed": "https://open.douyin.com/player/video?vid=7480278761573731621&autoplay=0"
     }
   ],
   "account": {

@@ -1,9 +1,9 @@
-# 李振文 · 阿文
-
-个人履历、项目实践与影像记录。
+# 阿文的个人网站
 
 网站：https://lijiunao.github.io/awen-reborn/
 
-静态页面由 GitHub Pages 从 main 根目录发布。
+四个板块：我的工作、我的生活、我感兴趣的、图文随记。
 
-当前不含照片和视频。真实媒体通过 media.json 配置，支持站内视频播放和抖音作品外链。个人履历按用户提供简历整理，原 PDF 未上传。
+详细简历收在工作板块的折叠区。抖音视频使用官方嵌入播放器。生活照片和其他图文可通过 media.json 的 section（life / interests / journal）分类添加。支持配置本地 src 后使用 HTML5 video 播放。
+
+原始简历 PDF、浏览器 Cookie、临时下载及工具环境未上传。
