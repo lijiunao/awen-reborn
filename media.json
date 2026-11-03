@@ -1,6 +1,13 @@
 {
   "profile": "",
-  "items": [],
+  "items": [
+    {
+      "type": "video",
+      "title": "iPhone 11 还能再战 2 年？",
+      "coverText": "iPhone 11",
+      "url": "https://www.douyin.com/video/7480278761573731621"
+    }
+  ],
   "account": {
     "name": "苹果手机阿文",
     "uniqueId": "22019413722"
